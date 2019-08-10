@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gegl.git
 	branch = master
-	commit = 7073e47047b11255b057b0e0a381f2c80237336c
-	parent = 923ac852ca9629a31867ab5a3c57a14a6f2a1341
+	commit = 13b5c1578b8acdaeab6ebb48fc7ba95da2f2efd6
+	parent = 1117fde7626847387822991fb84f6b485a5014c2
 	method = merge
 	cmdver = 0.4.0
