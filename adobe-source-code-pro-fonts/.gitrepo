@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesA/adobe-source-code-pro-fonts.git
+	branch = master
+	commit = 0f8237bd7d83d8b5adb4833d395d4177ff7f21c4
+	parent = ce7a717201f3150543186ad2b9bfc9e04254606e
+	method = merge
+	cmdver = 0.4.0
