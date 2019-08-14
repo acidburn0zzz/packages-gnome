@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/adobe-source-code-pro-fonts.git
 	branch = master
-	commit = 0f8237bd7d83d8b5adb4833d395d4177ff7f21c4
-	parent = ce7a717201f3150543186ad2b9bfc9e04254606e
+	commit = 7aef55ab0d9585d85db0e0b85453d1916d757a87
+	parent = 29469a7de966399bed285703cdc940e58fb58a52
 	method = merge
 	cmdver = 0.4.0
