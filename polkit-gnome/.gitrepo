@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesP/polkit-gnome.git
 	branch = master
-	commit = 1a2f81be0214d0bbe5831b8818ec4f29087c7708
-	parent = 0638bdfafaf212e75047de71ba0480fb85f70a97
+	commit = 11ed0bad3439129684c89ddb764d556749955099
+	parent = c5e4acf5387f207345947abfe0a209bb1fb10800
 	method = merge
 	cmdver = 0.4.0
