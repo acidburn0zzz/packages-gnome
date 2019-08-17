@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesG/gnome-themes-extra.git
+	branch = master
+	commit = 6b5967b6a8962a284216729f9635a81de6a0e696
+	parent = 78b233704435ab24a2513c36c5dcc61517359220
+	method = merge
+	cmdver = 0.4.0
