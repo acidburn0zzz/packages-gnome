@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gnome-themes-extra.git
 	branch = master
-	commit = 6b5967b6a8962a284216729f9635a81de6a0e696
-	parent = 78b233704435ab24a2513c36c5dcc61517359220
+	commit = 11c57152a54ea0a63d7ea11b8c4768f02c03217f
+	parent = 2c7c4b6abe5f6f3ab8b86f18540a350ded183f5b
 	method = merge
 	cmdver = 0.4.0
