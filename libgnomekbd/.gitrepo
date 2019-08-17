@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libgnomekbd.git
 	branch = master
-	commit = 7baa9b8daddddd25b1c258d900f29bea62ebcd8e
-	parent = 5875d36cb54ea02da89854e9eff4b50a68063158
+	commit = fbddc19a52afc7bc86c2d49fe0e3b67d4001cda4
+	parent = 26f19c49b3ae92e64120eceb6951a221946c473f
 	method = merge
 	cmdver = 0.4.0
