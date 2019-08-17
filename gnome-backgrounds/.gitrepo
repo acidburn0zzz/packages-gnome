@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gnome-backgrounds.git
 	branch = master
-	commit = 0aab6e38c0757f69c7550bd7c7b479351e1392c9
-	parent = bf460aadb42fe693658b826e31c66d1fcdeadee6
+	commit = e5d0a8a8b242961bd9167e3ed80731ab47deb691
+	parent = acf1554cfb6f1990705c0276d81c0df516e81280
 	method = merge
 	cmdver = 0.4.0
