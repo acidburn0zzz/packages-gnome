@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesL/libdazzle.git
+	branch = master
+	commit = 308c313c745988b0848c03f207874944c520d3ba
+	parent = 6a9587cff3f4b0c22b839320b67ce0b4c7569c84
+	method = merge
+	cmdver = 0.4.0
