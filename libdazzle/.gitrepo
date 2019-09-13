@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesL/libdazzle.git
 	branch = master
-	commit = 308c313c745988b0848c03f207874944c520d3ba
-	parent = 6a9587cff3f4b0c22b839320b67ce0b4c7569c84
+	commit = 676e91de23c82e327f51cf2fcb051531cecd0ae2
+	parent = ffad328e2d2664962aebb96ab8184d7cb103bac0
 	method = merge
 	cmdver = 0.4.0
