@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/sysprof.git
 	branch = master
-	commit = 569412e4c8cf3aecc3e983510b043218c33d906a
-	parent = 6304a7b590fb2f9feaa50381660d9810135e799f
+	commit = 15a1569f9fe1caa22580223f36a7b4ac494afbd5
+	parent = dfb346bd7bfd26c7e82aa34e9e4d38b8ab8760b6
 	method = merge
 	cmdver = 0.4.0
