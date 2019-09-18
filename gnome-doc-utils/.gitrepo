@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesG/gnome-doc-utils.git
+	branch = master
+	commit = 642f4c87887fead7194aeca28d460b8784cfd2f3
+	parent = f89e43fdbee682ae5961721d356e8e94f681e1ef
+	method = merge
+	cmdver = 0.4.0
