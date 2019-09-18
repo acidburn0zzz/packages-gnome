@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesU/usbredir.git
 	branch = master
-	commit = 5a944570b06a4fd127ed2cbd423cb715c02efcc9
-	parent = 9509c709fa8f54abfe061d0fc218d4ab0cc20dac
+	commit = 58764af097e3886bf8a764e6d6110a71af50256d
+	parent = de3a33d984ad24bfc43cc0067bbb2d4e3719c894
 	method = merge
 	cmdver = 0.4.0
