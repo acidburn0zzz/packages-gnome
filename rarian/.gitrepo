@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesR/rarian.git
 	branch = master
-	commit = 45e9f53f41d7f432d8b38f0b73132ce20a58cd53
-	parent = 68d79bce8ddaa12185e6fa5f473c76eeef8c246b
+	commit = 165fd90b3dbbc9247bf449fe06c404553e583dac
+	parent = f4fc02cfa21ca59d4b495a81eaf1a4b86881234d
 	method = merge
 	cmdver = 0.4.0
