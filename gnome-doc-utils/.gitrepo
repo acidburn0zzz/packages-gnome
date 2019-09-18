@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gnome-doc-utils.git
 	branch = master
-	commit = 642f4c87887fead7194aeca28d460b8784cfd2f3
-	parent = f89e43fdbee682ae5961721d356e8e94f681e1ef
+	commit = b0738bc4026c6fa1aae85647a1d4e55f2a0ca959
+	parent = 4d43ae942e69cccfcf3fcc5b50785d46a7e6def9
 	method = merge
 	cmdver = 0.4.0
