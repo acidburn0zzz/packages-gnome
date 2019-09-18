@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesR/rarian.git
+	branch = master
+	commit = 45e9f53f41d7f432d8b38f0b73132ce20a58cd53
+	parent = 68d79bce8ddaa12185e6fa5f473c76eeef8c246b
+	method = merge
+	cmdver = 0.4.0
