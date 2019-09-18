@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gnome-online-accounts.git
 	branch = master
-	commit = 12fec55c83134eef3c2b5d9d708b253a258afc36
-	parent = e24c4e36f87961243947487efe0087199f68602d
+	commit = f4ca4992d98a0dbc7cd98052ae51b2f48f04a867
+	parent = f8a8cd499038a17365a7d64809b64d8707b35724
 	method = merge
 	cmdver = 0.4.0
