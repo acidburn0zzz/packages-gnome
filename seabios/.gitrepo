@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesS/seabios.git
+	branch = master
+	commit = d2cb5e07017b16b2ea6980939d980d33ee18cfd0
+	parent = bce065dd82d0a516f3e846ac43b2e0084046fc08
+	method = merge
+	cmdver = 0.4.0
