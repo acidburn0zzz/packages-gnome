@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/spice.git
 	branch = master
-	commit = 6085791ec4f89e22851838eb80f88a4b6e40b4eb
-	parent = 52492c45b669007cc0ea5211472972cd81142e90
+	commit = 97078d23e14ba024e1bcbb6091282bbda37a6128
+	parent = 68d2a376bf2b71c338b6959def33c939f4fec293
 	method = merge
 	cmdver = 0.4.0
