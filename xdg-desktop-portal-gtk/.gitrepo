@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal-gtk.git
+	branch = master
+	commit = 31968efd95dee2d6f7811a8018a1c9516874a03b
+	parent = e00830547d8025ca92924a73beff45e90ed7f3be
+	method = merge
+	cmdver = 0.4.0
