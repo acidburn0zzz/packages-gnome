@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesV/virglrenderer.git
+	branch = master
+	commit = a9136e1cf0aaa955f7cf592dc96cb9c6a4bf604b
+	parent = 0c634e3ca55514b249f4b516330f751cacb36f42
+	method = merge
+	cmdver = 0.4.0
