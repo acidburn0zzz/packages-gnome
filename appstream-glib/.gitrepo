@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesA/appstream-glib.git
+	branch = master
+	commit = eb9ac26b7b2cde1e8e7b94f380cc78c9b0caf619
+	parent = b753d8eca637616e801f41637b83746ce06ceb15
+	method = merge
+	cmdver = 0.4.0
