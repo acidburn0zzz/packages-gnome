@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = gitea@gitea.artixlinux.org:packagesA/archlinux-appstream-data.git
+	branch = master
+	commit = 78f8787ee78f37709806116396c86b0fba3f841c
+	parent = 82d48a19df79715112fd9d5417fbad43e050014b
+	method = merge
+	cmdver = 0.4.0
