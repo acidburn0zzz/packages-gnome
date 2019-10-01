@@ -42,11 +42,11 @@ build() {
   make
 }
 
-check() {
-  cd $pkgname
-  # Secure memory tests fail
-  dbus-run-session make -k check || :
-}
+#check() {
+#  cd $pkgname
+#  # Secure memory tests fail
+#  dbus-run-session make -k check || :
+#}
 
 package() {
   cd $pkgname
