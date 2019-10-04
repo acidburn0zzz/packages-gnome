@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/virglrenderer.git
 	branch = master
-	commit = ce58bb7a3e36b51ba9359e50e1ab68ff40b54ffa
-	parent = fac4e61a98b98025504ac85e5437152d23932e13
+	commit = bfbd135d38bb47450dc620c20393014dd4a313d0
+	parent = bcc9e408ebae4362e40210b7dd43dae93b6a0c16
 	method = merge
 	cmdver = 0.4.0
