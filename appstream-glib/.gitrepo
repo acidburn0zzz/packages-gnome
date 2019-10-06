@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/appstream-glib.git
 	branch = master
-	commit = b60d12475f9396e854fc78772d2dcdbd2caedc91
-	parent = d84d7a83eab993c3b7086936d16960f9aea40c22
+	commit = 8024b10b6c305ca67caae232363b9c52ef64944e
+	parent = c186ee274eacdfe65cd2f32ab86e6a19872dc4cb
 	method = merge
 	cmdver = 0.4.0
