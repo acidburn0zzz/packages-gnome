@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesA/archlinux-appstream-data.git
 	branch = master
-	commit = c7a248df7b7ba2ee66308d6cdf0659c88ae8fbc7
-	parent = 7ffd5782cbeceb8a4afb502436ae0249c6d56ad0
+	commit = 095de7c577b55ca3587639a8a8bcb4a8ead4b969
+	parent = 86f042f1b06b4482ab338eb3e6a0d9011560e01f
 	method = merge
 	cmdver = 0.4.0
