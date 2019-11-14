@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesM/meld.git
 	branch = master
-	commit = c04361250a02cd694c1038164fa78b53a14056b4
-	parent = 6bbd40dbd1d672c4b795f0be62cf8e888ab6fd1a
+	commit = 64aad072aee0bf5e75a57f6c75260adac20f5feb
+	parent = b829704a4a2b18860c5d57ca21cc64f6e81050e8
 	method = merge
 	cmdver = 0.4.0
