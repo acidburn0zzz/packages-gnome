@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesV/vde2.git
 	branch = master
-	commit = b057e7c2d2a31341eb0ee5446b1abe8df08f86de
-	parent = 120a284c3b492d9409ff1f87bd3e664fb4bcb282
+	commit = 72e4ffb5b7faa52d7fc8e3fc849d332c70f64a6a
+	parent = 64b84c3566a83c897abd436b0a27dc74ea7b1462
 	method = merge
 	cmdver = 0.4.0
