@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesG/gjs.git
 	branch = master
-	commit = 1923abddf197f454b648fb64a26c32fda429bcd3
-	parent = 800c6569d3a81c36e9bb338921e6b752c8976c12
+	commit = c24139d6e52a1432e818878c5c9f124a0bb4d1a8
+	parent = 7029ce3910aff53e539dfe03ec77198a45715cf3
 	method = merge
 	cmdver = 0.4.0
