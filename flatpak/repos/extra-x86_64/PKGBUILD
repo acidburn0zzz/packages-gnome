@@ -18,7 +18,6 @@ source=("git+https://github.com/flatpak/flatpak#commit=$_commit"
         "git+https://github.com/projectatomic/bubblewrap"
         "git+https://github.com/flatpak/xdg-dbus-proxy"
         https://dl.flathub.org/repo/flathub.flatpakrepo
-        python3.diff
         flatpak-bindir.sh)
 sha256sums=('SKIP'
             'SKIP'
@@ -67,11 +66,10 @@ build() {
   make
 }
 
-check() {
-  cd $pkgname
-  # Xattr tests fail on tmpfs
-  make -k check || :
-}
+# check() {
+#   cd $pkgname
+#   make -k check || :
+# }
 
 package() {
   depends+=(xdg-desktop-portal)
