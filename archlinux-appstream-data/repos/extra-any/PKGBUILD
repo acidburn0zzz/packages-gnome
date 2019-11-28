@@ -1,7 +1,7 @@
 # Maintainer: Antonio Rojas <arojas@archlinux.org>
 
 pkgname=archlinux-appstream-data
-pkgver=20190925
+pkgver=20191128
 pkgrel=1
 pkgdesc="Arch Linux application database for AppStream-based software centers"
 arch=(any)
@@ -17,15 +17,15 @@ for _repo in core extra community; do
           $_repo-icons-128x128-$pkgver.tar.gz::https://sources.archlinux.org/other/packages/$pkgname/$pkgver/$_repo/icons-128x128.tar.gz)
  noextract+=($_repo.xml.gz-$pkgver $_repo-icons-{64x64,128x128}-$pkgver.tar.gz)
 done
-sha256sums=('b3617e447f21727216152fd112fc671f50a83f315e48fd958ece716dbed1e1d1'
+sha256sums=('5559066c2dc5d4ba8b1a765dafd494257a11fd1258da4c0230ea5de8f2b918f0'
             '7989bb311baa38ef545250282aa065d23281c46dfb8faabe4c653487bdbded5c'
             '7989bb311baa38ef545250282aa065d23281c46dfb8faabe4c653487bdbded5c'
-            '6b8eac35cc830b2de8713a44866d67ebfe5eb7719fc34034c233dc6fb8fad2b0'
-            '7b8e3d6ea04fe39112bb3f0adf775b40bc9ed7f8ae927795c5c9ddfeb13fdb53'
-            'ceca0b1a1fab738e658319f69b113b617055aed083d4f0230be8728444d064a8'
-            '9dc334628241d2d8a8e410e76618a2e5727cc7f00f4260efa428dbc7fa92a848'
-            'a60bc64fa4c605afa624cb4eb507e959c80b4a9d6651fac2c7edf7178b9cba10'
-            'f5bb096af4324562bed7123384eb7e2d320cd8b8c81d6f58d9dcccd53fe5ff6a')
+            '4e750822d371317193b336ff3900ef8745e97190e30ce949acae8e6789e7a841'
+            '9dd399af0074b5af43a6519eb25fb8d60cceeb3e934765fb68d829faab4f2c3d'
+            'ca2a079c1b166acb70ea7a5674a5e8ffefb1975f969c1dca71a6b1fc2bed889c'
+            '87f9999f5b4c47089d0abbe93f9c40fdadff0a8ce26ea5ec74cd2acebe3473a3'
+            '100d6afa52f0f989e9854143e5470b04afe4bb82106dbf9ed6ccf866b12cf322'
+            '42f2f7e5d8b707a0c74d8df48945263e8f3917583a60cd6e062356e6e150e423')
 
 package() {
   mkdir -p "$pkgdir"/usr/share/app-info/{icons/archlinux-arch-{core,extra,community}/{64x64,128x128},xmls}
