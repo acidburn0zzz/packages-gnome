@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesQ/qemu.git
 	branch = master
-	commit = 39e1260fcca07f57d3843d7eab0b853112e895d4
-	parent = bc8ec45fb8f026482523f0c3bad36303f3da309b
+	commit = 487800bba566810539d74ea1ecdb34158ef7a9ab
+	parent = 656f1cb7d54a5f92c9e8ba127e62b4c2c94c15df
 	method = merge
 	cmdver = 0.4.0
