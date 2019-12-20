@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesX/xdg-desktop-portal.git
 	branch = master
-	commit = 265d871146cc166ac0c7355750eabd9262f6fbf5
-	parent = 694e364ddfba2f238d60b5866822d2b753d6a66d
+	commit = 2d62a19959145b57788216250d760fe555f98265
+	parent = 62147d9dc25a1b959ddd592cf959cadcf3b1693f
 	method = merge
 	cmdver = 0.4.0
