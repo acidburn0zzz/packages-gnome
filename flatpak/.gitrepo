@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesF/flatpak.git
 	branch = master
-	commit = 802a865386639e8e186545ba5449d0c7484c23be
-	parent = 314197f8a5f96d0f9f4aac8f313d8643684dc340
+	commit = adea04453fcf2b9e689fa63c9f809ab020498759
+	parent = 15f9aa898365898303ab22e3ae74f691c2a5f988
 	method = merge
 	cmdver = 0.4.0
