@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesS/seabios.git
 	branch = master
-	commit = ced8d2bbc13f6e768935e923c91ea1330f3be8de
-	parent = d71ca4cbd248cc75c1b21eae64e884415bb63f07
+	commit = a61724b9d6b195fb882a2235c95b2abc2d99d63b
+	parent = 04ecc767e05de23b363d180e7cca306d40573a52
 	method = merge
 	cmdver = 0.4.0
