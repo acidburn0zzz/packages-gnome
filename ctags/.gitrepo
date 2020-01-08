@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesC/ctags.git
 	branch = master
-	commit = d2eaa4b6538b63eeb215f18626588486c1010d1b
-	parent = 9f73d41d6afceee7c32b2b5e01ed07f8ba6b9d8b
+	commit = 3fa699dc7ed69bc1f42d430568e3330ae3d3ab86
+	parent = 783b03eb16afe9563ba16de0d5e31d07aacf073b
 	method = merge
 	cmdver = 0.4.0
