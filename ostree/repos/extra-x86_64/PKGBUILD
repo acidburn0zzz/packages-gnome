@@ -49,7 +49,8 @@ build() {
     --with-builtin-grub2-mkconfig \
     --enable-experimental-api \
     --disable-static \
-    --enable-gtk-doc
+    --enable-gtk-doc \
+    --without-libsystemd
 
   sed -i -e 's/ -shared / -Wl,-O1,--as-needed\0/g' libtool
 
