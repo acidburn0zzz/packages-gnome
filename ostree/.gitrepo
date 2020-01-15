@@ -6,7 +6,7 @@
 [subrepo]
 	remote = gitea@gitea.artixlinux.org:packagesO/ostree.git
 	branch = master
-	commit = 5de17510e898dac357a8280df8f72c8fb4b96761
-	parent = 8d8f20b36a38c58bbd2c9c30bc6fae93c9c0e352
+	commit = 6fd3f1c39aba2330880a15213a59ea9ab8553d78
+	parent = 3fc704cc33fe4c62d52be964112ec2604714a918
 	method = merge
 	cmdver = 0.4.1
